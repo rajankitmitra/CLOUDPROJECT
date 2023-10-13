@@ -5,4 +5,4 @@
    Pragma: no-cache
    Expires: 0
    Content-Security-Policy: frame-ancestors 'https://ornate-mousse-b82f3e.netlify.app *'
-   Content-Security-Policy: default-src 'self';
+   
