@@ -1,8 +1,0 @@
-/*
-   X-Frame-Options: DENY
-   X-Content-Type-Options: nosniff
-   Cache-Control: no-cache, no-store, must-revalidate
-   Pragma: no-cache
-   Expires: 0
-   Content-Security-Policy: frame-ancestors 'https://ornate-mousse-b82f3e.netlify.app *'
-   Content-Security-Policy: default-src 'self';
