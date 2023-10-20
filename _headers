@@ -3,7 +3,7 @@
    X-Content-Type-Options: nosniff
    Cache-Control: no-cache, no-store, must-revalidate, max-age=0
    Pragma: no-cache
-Cache-Control: no-cache, no-store, must-revalidate
+   Cache-Control: no-cache, no-store, must-revalidate
    Expires: 0
   
    
